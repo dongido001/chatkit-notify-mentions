@@ -5,11 +5,24 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "server": "node ./server/app.js"
   },
   "dependencies": {
+    "@pusher/chatkit-client": "^1.12.1",
+    "@pusher/chatkit-server": "^2.1.0",
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
     "core-js": "^2.6.5",
-    "vue": "^2.6.10"
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "install": "^0.13.0",
+    "npm": "^6.11.2",
+    "path": "^0.12.7",
+    "textarea-caret": "^3.1.0",
+    "vue": "^2.6.10",
+    "vue-at": "2.x",
+    "web-push": "^3.3.5"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.11.0",
