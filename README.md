@@ -1,6 +1,6 @@
 # Alert users when they are mentioned in your Chatkit app using Web Push Notification
 
-This is a demo application showing how to notify users of their mentions in Chatkit. You can read more on how this was built [here](http://chatkit.com).
+This is a demo application showing how to notify users of their mentions in Chatkit. You can read more on how this was built [here](https://pusher.com/tutorials/chatkit-mention-notification).
 
 
 ![Sample working example](./screenshots/gif.gif)
